@@ -1,2 +1,0 @@
-# karthikdevopsrepo
-devops
